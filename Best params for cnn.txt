@@ -1,0 +1,31 @@
+Results summary
+Results in project\Smartphone User Identification1
+Showing 10 best trials
+<keras_tuner.engine.objective.Objective object at 0x000001F655DFA3A0>
+Trial summary
+Hyperparameters:
+num_layers: 3
+kernel_size0: 7
+filters0: 24
+activation: relu
+dropout: 0.25
+kernel_size1: 5
+filters1: 16
+initializer: uniform
+kernel_size2: 3
+filters2: 16
+Score: 0.5331666668256124
+Trial summary
+Hyperparameters:
+num_layers: 4
+kernel_size0: 7
+filters0: 28
+activation: tanh
+dropout: 0.35
+kernel_size1: 5
+filters1: 12
+initializer: uniform
+kernel_size2: 5
+filters2: 32
+kernel_size3: 3
+filters3: 32

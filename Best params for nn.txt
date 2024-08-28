@@ -1,0 +1,30 @@
+Results summary
+Results in project\Smartphone User Identification
+Showing 10 best trials
+<keras_tuner.engine.objective.Objective object at 0x000001F62136D8B0>
+Trial summary
+Hyperparameters:
+num_layers: 4
+initializer: uniform
+activation: relu
+units0: 192
+units1: 352
+units2: 64
+units3: 288
+units4: 64
+units5: 480
+units6: 384
+units7: 384
+units8: 320
+units9: 256
+units10: 288
+units11: 448
+units12: 352
+units13: 128
+units14: 192
+units15: 416
+units16: 256
+units17: 352
+units18: 64
+units19: 224
+Score: 0.4557619094848633
