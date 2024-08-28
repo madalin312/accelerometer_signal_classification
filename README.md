@@ -43,7 +43,7 @@ The SVM model produced the best results in terms of both validation and test acc
 ## How to Run
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/madalin312/deep_generated_images_classification
+    git clone https://github.com/madalin312/accelerometer_signal_classification
     ```
 2. **Install Dependencies**:
     - Ensure you have Python and the necessary libraries installed:
